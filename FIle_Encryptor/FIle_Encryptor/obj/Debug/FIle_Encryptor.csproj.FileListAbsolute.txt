@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\FIle_Encryptor\FIle_Encryptor\bin\Debug\FIle_Encryptor.exe
+C:\Users\admin\source\repos\FIle_Encryptor\FIle_Encryptor\bin\Debug\FIle_Encryptor.pdb
+C:\Users\admin\source\repos\FIle_Encryptor\FIle_Encryptor\obj\Debug\FIle_Encryptor.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\FIle_Encryptor\FIle_Encryptor\obj\Debug\FIle_Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FIle_Encryptor\FIle_Encryptor\obj\Debug\FIle_Encryptor.exe
+C:\Users\admin\source\repos\FIle_Encryptor\FIle_Encryptor\obj\Debug\FIle_Encryptor.pdb
